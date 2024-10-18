@@ -103,7 +103,6 @@ The Streamlit interface will be accessible via your local server.
 The Flask app exposes an API that takes the student’s grade level and Lexile score as inputs and returns book recommendations.
 
 **Example API call:**
-```bash
 GET /recommend?grade_level=5&lexile_score=700
 
 

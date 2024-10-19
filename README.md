@@ -49,6 +49,7 @@ BookRecommendationSystem/
 │   └── database.db                 # SQLite3 database file (managed with DBeaver)
 └── notebooks/                      # Folder for storing Jupyter notebooks
     └── analysis.ipynb              # Jupyter notebook for model evaluation and data analysis
+```
 
 ---
 
@@ -64,7 +65,6 @@ Before running this project, ensure you have the following installed on your mac
 
 ### Step 1: Clone the Repository
 First, clone the repository from GitHub and navigate to the project folder:
-```bash
 git clone https://github.com/chiomalani/BookRecommendationSystem.git
 cd BookRecommendationSystem
 
@@ -123,7 +123,6 @@ If you'd like to contribute to this project:
 
 1. Fork the repository.
 2. Create a feature branch:
-   ```bash
    git checkout -b feature-branch
 3. Commit Changes
    git commit -m 'Add some feature'
